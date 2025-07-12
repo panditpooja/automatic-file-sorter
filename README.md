@@ -1,8 +1,8 @@
 # Automatic File Sorter in File Explorer
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)  
-![File Explorer](https://img.shields.io/badge/File%20Organizer-Automatic-green?logo=windows&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![File Explorer](https://img.shields.io/badge/File%20Organizer-Automatic-green?logo=windows&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 
 *Automatically organize your files in File Explorer using Python.*
 
@@ -69,5 +69,5 @@ pip install -r requirements.txt
 Master’s Student in Information Science (Machine Learning)  
 The University of Arizona  
 
-[![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)  
+[![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pooja--pandit-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-pandit-177978135/)  
